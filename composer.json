@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "laravie/dhosa": "^1.1",
-        "orchestra/contracts": "^6.0",
+        "orchestra/contracts": "^7.0",
         "orchestra/database": "dev-master",
         "orchestra/support": "dev-master"
     },
