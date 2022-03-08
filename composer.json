@@ -1,5 +1,5 @@
 {
-    "name": "orchestra/model",
+    "name": "enriquejlicona/model",
     "description": "Model Component for Orchestra Platform",
     "homepage": "http://orchestraplatform.com/docs/latest/components/model",
     "keywords": ["orchestra-platform", "orchestral", "model", "laravel"],
