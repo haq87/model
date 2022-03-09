@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "enriquejlicona/dhosa": "^2.0",
-        "orchestra/contracts": "^7.0",
+        "enriquejlicona/contracts": "^7.0",
         "orchestra/database": "dev-master",
         "orchestra/support": "dev-master"
     },
