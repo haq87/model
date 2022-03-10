@@ -26,7 +26,7 @@
         "enriquejlicona/dhosa": "^2.0",
         "enriquejlicona/contracts": "^7.0",
         "orchestra/database": "dev-master",
-        "orchestra/support": "dev-master"
+        "enriquejlicona/support": "^8.0.0"
     },
     "require-dev": {
         "orchestra/auth": "^6.0",
