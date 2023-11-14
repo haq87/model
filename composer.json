@@ -9,6 +9,11 @@
             "name": "Mior Muhammad Zaki",
             "email": "crynobone@gmail.com",
             "homepage": "https://github.com/crynobone"
+        },
+        {
+            "name": "Mohd Dhiyaulhaq",
+            "email": "dhiyaulhaq87@gmail.com",
+            "homepage": "https://github.com/haq87"
         }
     ],
     "autoload": {
@@ -21,11 +26,17 @@
             "Orchestra\\Model\\Tests\\" : "tests/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/haq87/database.git"
+        }
+    ],
     "require": {
         "php": "^7.3 || ^8.0",
         "enriquejlicona/dhosa": "^2.0",
         "enriquejlicona/contracts": "^7.0",
-        "orchestra/database": "dev-master",
+        "orchestra/database": "^8.0",
         "enriquejlicona/support": "^8.0.0"
     },
     "require-dev": {
@@ -35,7 +46,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "6.0-dev"
+            "dev-master": "8.0"
         }
     },
     "config": {
